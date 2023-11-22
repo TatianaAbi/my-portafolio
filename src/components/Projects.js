@@ -1,5 +1,5 @@
 import { useParams } from "react-router-dom"
-import { portafolioData } from "../portafolioData"
+import { portafolioData } from "./portafolioData"
 import '../styles/Projects.css'
 
 function Projects() {

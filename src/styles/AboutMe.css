@@ -8,6 +8,7 @@
 }
 .about-sections{
     max-width:550px;
+    padding:2rem
 }
 .cat-container{
     display:flex;
@@ -31,7 +32,7 @@ width:10rem
 }
 .presentation{
     display:grid;
-    grid-template-columns:3fr 1fr;
+    grid-template-columns:2fr 1fr;
 
     padding-block:24px
 }
@@ -45,9 +46,13 @@ width:10rem
     margin-top:-1.5rem;
     font-size:1rem
 }
+.container-img{
+    display:flex;
+    justify-content:flex-end;
+}
  .container-img img {
     border: 2px solid white;
-    width:80%;
+    width:51%;
     border-radius:50%;
 }
 .greeting h2{

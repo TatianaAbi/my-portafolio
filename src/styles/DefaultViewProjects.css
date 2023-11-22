@@ -1,6 +1,5 @@
 .defaultComponentProjects{
      height:20rem; 
-    /* width:100%; */
     display: grid;
     place-items: center;
     color:white;
@@ -10,9 +9,11 @@
     place-items: center;
     background:#181A21;
     border:2px solid #181818;
-    width:20rem;
     font-size:1.2rem
 }
 .gatito img{
     width:8rem;
 }
+.defaultComponent p{
+    margin:2rem;
+ }

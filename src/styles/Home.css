@@ -5,20 +5,20 @@
 .lista-de-links{
     display: flex;
     align-items: center;
-    list-style: none;
     justify-content: space-around;
 }
+
 .optionsSection{
     text-decoration:none;
     font-size:1.3rem;
     color:white;
     display: inline-block;
-    width: 8rem;
+    width: 6rem;
     height: 2rem;
     text-align: center;
     border-radius: 30px;
 }
 .optionsSection:hover{
-    background:#616161;
+    text-decoration:underline;
     
 }

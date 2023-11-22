@@ -1,7 +1,6 @@
 import { Link } from "react-router-dom"
 import '../styles/AboutMe.css'
 
-
 function AboutMe() {
     return(
         <div className="AboutMe">

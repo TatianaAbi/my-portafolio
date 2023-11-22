@@ -9,11 +9,7 @@ function Main({children}) {
             <section className="article-container">
                 <article className="cart-container">
                   <div className="cart-img-container">
-            
-                    <div className="img">
                         <img src="https://cdn.shopify.com/s/files/1/0533/2089/files/placeholder-images-image_large.png?format=jpg&quality=90&v=1530129081" alt="imagen"/>
-                    </div>
-                    <div className="img-margin"></div>
                  </div>
         <div className="description">
             <div className="description-container">

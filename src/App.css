@@ -48,11 +48,3 @@ body{
   font-family: 'Sono', monospace;
   font-size: 62.5%;
 }
-
-
-@media (max-width:775px) {
-  .cart-container{
-    display:flex ;
-    flex-direction:column;
-  }
-}
